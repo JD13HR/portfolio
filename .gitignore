@@ -9,11 +9,6 @@
 /coverage
 
 # production
-/public
-/src
-/package-lock.json
-.gitignore
-/package.json
 
 
 # misc
